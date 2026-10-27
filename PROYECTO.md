@@ -2,7 +2,7 @@
 
 
 
-Nombre del proyecto: proyecto-equipo
+Nombre del proyecto: proyecto-optativa
 
 
 
