@@ -2,13 +2,19 @@
 
 
 
-Nombre del proyecto: por definir
+Nombre del proyecto: proyecto-equipo
 
 
 
 \## Miembros
 
-* Lucia
+\* Lucía
 
-* Diego
+\* Diego
+
+
+
+\## Objetivos
+
+\- Practicar el trabajo en equipo con ramas y Pull Requests
 
