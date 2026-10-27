@@ -1,4 +1,4 @@
-\#Proyecto del equipo
+\# Proyecto del equipo
 
 
 
@@ -6,7 +6,9 @@ Nombre del proyecto: por definir
 
 
 
-\##Miembros
+\## Miembros
+
+* Lucia
 
 * Diego
 
