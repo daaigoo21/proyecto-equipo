@@ -12,6 +12,8 @@ Nombre del proyecto: proyecto-optativa
 
 \* Diego
 
+* Javier
+
 
 
 \## Objetivos
