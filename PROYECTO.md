@@ -12,6 +12,8 @@ Nombre del proyecto: proyecto-equipo
 
 \* Diego
 
+* Javier
+
 
 
 \## Objetivos
